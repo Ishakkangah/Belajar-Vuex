@@ -1,0 +1,50 @@
+[
+   {
+      "id": 1,
+      "name": "Samsung Electronics Galaxy Chromebook",
+      "price": 299.0,
+      "img": "1.jpg"
+   },
+   {
+      "id": 2,
+      "name": "iProda Laptop",
+      "price": 299.98,
+      "img": "2.jpg"
+   },
+   {
+      "id": 3,
+      "name": "SAMSUNG Galaxy Chromebook 4",
+      "price": 179.99,
+      "img": "3.png"
+   },
+   {
+      "id": 4,
+      "name": "iProda Laptop",
+      "price": 299.98,
+      "img": "4.jpg"
+   },
+   {
+      "id": 5,
+      "name": "HP Stream 14-inch Laptop",
+      "price": 272.98,
+      "img": "5.jpg"
+   },
+   {
+      "id": 6,
+      "name": "Lenovo IdeaPad 3 Intel i5",
+      "price": 282.98,
+      "img": "6.jpg"
+   },
+   {
+      "id": 7,
+      "name": "Acer Swift 5 Intel Evo Thin & Light Laptop",
+      "price": 272.98,
+      "img": "7.jpg"
+   },
+   {
+      "id": 8,
+      "name": "Lenovo Chromebook Flex 3 11",
+      "price": 272.98,
+      "img": "8.png"
+   }
+]
